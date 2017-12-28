@@ -1,4 +1,4 @@
 In development
 ==============
 
-Server don`t containts any knowladge about auth and clients.
+Server don`t contains any knowladge about auth and clients.
