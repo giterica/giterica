@@ -1,4 +1,4 @@
 In development
 ==============
 
-Server don`t contains any knowledge about auth and clients.
+Giterica gRPC server. Don`t contains any knowledge about auth plugins and clients implementation. Go, PostgreSQL, Protobuf/gRPC, Docker.
